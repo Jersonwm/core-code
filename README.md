@@ -46,69 +46,34 @@
  ### Week challenges (Wednesday) 💻
  
 1.  Learn about binary, decimal and hexadecimal numbers.
-   -
+     - Com
 
 2.  Translate the year you where born to binary, decimal and hexadecimal.
-   -
+     - Com
 
 3.  Translate 51966 into hexadecimal and binary.
-   -
+     - Com
 
 4.  Use a Low-level language, for example MIPS aseembler, to do so, you will need to follow this guide. We recomend to check the guide first but also this presentation could be helpful.
-   -
+     - Com
 
 5.  Base on the examples and the guide of the low-level language: 5.1 Create a program to add two numbers given by the user 5.2 Create a program that display your name.
-   -
+     - Com
 
 ### Week challenges (Thursday) 💻
 
 1.  Search for real word applications of Javascript.
-   -
+   - Complete
 
 2.  (optional but great) Watch this video.
-   -
+   - Com
 
 3.  (optional but great) Watch this video.
-   -
+   - Com
 
 4.  Follow the github course, you can find it here.
-   -
+   - Com
 
 
 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
  
