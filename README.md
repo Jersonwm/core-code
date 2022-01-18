@@ -1,8 +1,9 @@
 ### core-code
 ---
 ### Week challenges (Tuesday) 💻
-1. I have finished watching the video about the complication.
-
+1. Watch this video about compilation and interpretation.
+    - Complete.
+    
 2.  Java language is compiled or interpreted?
     - Java is an interpreted language
 
@@ -61,14 +62,17 @@
 
 ### Week challenges (Thursday) 💻
 
-1. Search for real word applications of Javascript.
+1.  Search for real word applications of Javascript.
+   -
 
-2. (optional but great) Watch this video.
+2.  (optional but great) Watch this video.
+   -
 
-3. (optional but great) Watch this video.
+3.  (optional but great) Watch this video.
+   -
 
-4. Follow the github course, you can find it here.
-
+4.  Follow the github course, you can find it here.
+   -
 
 
 
