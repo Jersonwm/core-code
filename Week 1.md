@@ -63,16 +63,16 @@
 ### Week challenges (Thursday) 💻
 
 1.  Search for real word applications of Javascript.
-   - Complete
+    - Complete
 
 2.  (optional but great) Watch this video.
-   - Com
+    - Com
 
 3.  (optional but great) Watch this video.
-   - Com
+    - Com
 
 4.  Follow the github course, you can find it here.
-   - Com
+    - Com
 
 
 
