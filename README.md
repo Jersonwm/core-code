@@ -39,6 +39,52 @@
  8. Why are flowcharts important to us as developers?
     - Los diagramas de flujo son importates ya que se pueden utilizar como una representación visual del flujo de datos, los diagramas de flujo nos permiten crear, darle una secuencia lógica a las cosas, explicar, ejemplificar , darle un proceso y requerimientos al programa que estamos ejecutando de una manera mas simple y eficaz.
  
+ 9. Search about High-level languages and Low-level languages
+    - Complete
+ 
+ ### Week challenges (Wednesday) 💻
+ 
+1.  Learn about binary, decimal and hexadecimal numbers.
+   -
+
+2.  Translate the year you where born to binary, decimal and hexadecimal.
+   -
+
+3.  Translate 51966 into hexadecimal and binary.
+   -
+
+4.  Use a Low-level language, for example MIPS aseembler, to do so, you will need to follow this guide. We recomend to check the guide first but also this presentation could be helpful.
+   -
+
+5.  Base on the examples and the guide of the low-level language: 5.1 Create a program to add two numbers given by the user 5.2 Create a program that display your name.
+   -
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
  
  
  
