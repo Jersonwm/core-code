@@ -59,15 +59,15 @@
 5.  Base on the examples and the guide of the low-level language: 5.1 Create a program to add two numbers given by the user 5.2 Create a program that display your name.
    -
 
+### Week challenges (Thursday) 💻
 
+1. Search for real word applications of Javascript.
 
+2. (optional but great) Watch this video.
 
+3. (optional but great) Watch this video.
 
-
-
-
-
-
+4. Follow the github course, you can find it here.
 
 
 
